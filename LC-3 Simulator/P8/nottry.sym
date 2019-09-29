@@ -1,0 +1,7 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	NEG_OFFSET        3001
+//	MAIN              3003
+//	POS_OFFSET        3002
